@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">A junior frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **JavaScript, node.js, react**
+- 🌱 I’m currently learning **JavaScript, node.js, react, python3**
 
 - 📫 How to reach me **cesardanielro96@gmail.com**
 
-- ⚡ Fun fact **everyday i want to die**
+- ⚡ Fun fact **everyday i want to die, die, die**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
