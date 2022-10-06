@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">A junior frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **JavaScript, node.js, react, python3**
+- 🌱 I’m currently learning **Python3 and Django**
 
 - 📫 How to reach me **cesardanielro96@gmail.com**
 
